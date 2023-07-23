@@ -1,0 +1,15 @@
+{
+  "name": "env_for_nodejs",
+  "version": "1.0.0",
+  "description": "create env for nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
